@@ -1,5 +1,7 @@
 Rencana konten :
 -Javascript
+  * ES6
+  * Frameworks Javascript
 -PHP Frameworks
 -Interview
 -blogs
