@@ -1,0 +1,6 @@
+Rencana isi :
+- php framework
+- javascript
+  * Sinta ES6
+  * framework react
+- react
